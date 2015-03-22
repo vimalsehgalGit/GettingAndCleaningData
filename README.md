@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Getting and Cleaning Data
 
 ## Course Project
@@ -20,6 +19,3 @@ You should create one R script called run_analysis.R that does the following.
 ## Dependencies
 
 ```run_analysis.R``` file will help you to install the dependencies automatically. It depends on ```reshape2``` and ```data.table```. 
-=======
-# GettingAndCleaningData
->>>>>>> bc837893ff39b0a316f937d25fec6ba98f536002
